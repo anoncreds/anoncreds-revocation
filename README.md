@@ -15,7 +15,7 @@ those requirements.
 [AnonCreds v1.0 Revocation Scheme]: https://github.com/hyperledger/indy-hipe/blob/main/text/0011-cred-revocation/README.md
 
 - This work is being conducted under the [Community Specification License v1.0](1._Community_Specification_License-v1.md)
-- The draft specification can be found here: [https://hyperledger.github.io/anoncreds-revocation/](https://hyperledger.github.io/anoncreds-revocation/)
+- The draft specification can be found here: [https://hyperledger.github.io/anoncreds-revocation/](https://anoncreds.github.io/anoncreds-revocation/)
 - The source specification documents can be found here: [Specification Source](/spec)
 
 This repository contains guidelines for [contributing](#contributions) to the specification and submitting [edits via GitHub pull requests](/EditingTheSpec.md).
@@ -45,7 +45,7 @@ All participants in this working group must follow the group's [Code of Conduct]
 Meetings of the Working Group are held weekly on Mondays at 7AM
 Pacific/Vancouver time. That is 16:00 CET for most of the year, except for the
 periods around the daylight savings time changes. Meeting details, agendas,
-notes and links to the recordings are posted on the repository Wiki (to be done).
+notes and links to the recordings are posted on the repository Wiki.
 
 ## Working Group Communications
 
